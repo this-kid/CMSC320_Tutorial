@@ -1,3 +1,6 @@
+# CMSC320 Final - Tutorial
+# Name: Lucas Cunningham
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
